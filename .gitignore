@@ -1,3 +1,9 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore all __pycache__ directories anywhere in the repository
+__pycache__/
+
 rag_test/
 RAG_Learning.egg-info/
 steps.md
