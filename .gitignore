@@ -8,3 +8,5 @@ rag_test/
 RAG_Learning.egg-info/
 steps.md
 process/logs/
+logs/
+req.txt
